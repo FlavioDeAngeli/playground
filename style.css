@@ -48,9 +48,10 @@ header:hover {
 }
 
 @media (max-width: 1080px) {
-	header { font-size: 1.2em }
+	header { font-size: 2em; }
+	nav { font-size: 1.5em;}
   	.main { grid-template-columns: repeat(1, 1fr); }
-  	.container { min-height: 200px;}
+  	.container { min-height: 400px;}
 }
 
 .container {
