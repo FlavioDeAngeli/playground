@@ -9,7 +9,7 @@ body {
 }
 .navbar {
 	display: flex;
-	width: 99.1vw; /* manual browser width correction */
+	width: 98.75vw; /* manual browser width correction */
 	background : rgba(240, 0, 50, 0.7);
 	justify-content: space-between;
 }
@@ -42,7 +42,7 @@ header:hover {
 
 .main {
 	min-height: 90vh;
-	width: 99.4vw; /* manual browser width correction */
+	width: 99.15vw; /* manual browser width correction */
 	margin: -5px;
 	color: white;
 	display: grid;
