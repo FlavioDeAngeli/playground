@@ -10,7 +10,7 @@ body {
 .navbar {
 	display: flex;
 	position: fixed;
-        top: 0;
+    top: 0;
 	width: 98.75vw; /* manual browser width correction */
 	background : rgba(240, 0, 50, 0.8);
 	justify-content: space-between;
@@ -118,5 +118,6 @@ footer {
 	nav { font-size: 2rem;}
   	.main { grid-template-columns: repeat(1, 1fr);
   			width: 100vw; }
+  	.top_left { min-height: 400px; }
   	footer { font-size: 1.5em;}
 }
